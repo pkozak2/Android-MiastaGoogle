@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Miasta Google</string>
+    <string name="City">Miejscowość:</string>
+    <string name="nullText">NULL</string>
+    <string name="Community">Gmina:</string>
+    <string name="County">Powiat:</string>
+    <string name="Province">Województwo:</string>
+    <string name="FillCity">Podaj miasto</string>
+    <string name="ButtonAdd">Dodaj</string>
+    <string name="Back">Wróć</string>
+    <string name="emptyCityName">Nazwa miasta nie może być pusta!</string>
+    <string name="noconnection">Nie masz połączenia z internetem!</string>
+    <string name="notexists">Miejscowość nie istnieje!</string>
+</resources>
